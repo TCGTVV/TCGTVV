@@ -1,45 +1,37 @@
-# Hi, I'm Leopold 👋
+# Hi, I'm Leopold
 
-**SAP Business One Consultant** building toward an **SAP S/4HANA Platform / Technical Architect** role — where deep SAP knowledge meets modern software engineering and Linux infrastructure.
+SAP Business One Consultant on the way to an SAP S/4HANA Platform / Technical Architect role, somewhere at the intersection of deep SAP knowledge, modern software engineering, and Linux infrastructure.
 
-I treat consulting like engineering: reproducible setups, version control, clean migrations, and systems that other people can actually maintain.
+I tend to treat consulting like engineering work: reproducible setups, things kept under version control, clean migrations, and systems that the next person can actually maintain.
 
----
+## What I do
 
-### What I do
+I work as an SAP B1 consultant at rocon, handling implementations, version upgrades, and HANA/Linux migrations across customer environments. The day-to-day is a mix of technical troubleshooting, SQL Server and HANA tuning, e-invoicing topics (XRechnung, OZG-RE), coresuite customizing, and a fair amount of direct customer communication.
 
-- 🏗️ **SAP B1 consulting** at rocon — implementations, version upgrades, and HANA / Linux migrations across customer environments
-- 🔧 Day-to-day: technical troubleshooting, SQL Server & HANA tuning, e-invoicing (XRechnung / OZG-RE), coresuite customizing, and customer communication
-- 🐧 **Linux & open-source** by conviction — Arch / CachyOS daily driver, self-hosted infrastructure, occasional upstream contributions (Infomaniak kDrive)
-- 🎓 Finishing a dual-study **B.Sc. Wirtschaftsinformatik** (Hochschule Mainz, 2026), on a **Fachinformatiker → IT admin → SAP consultant** path
+Outside of SAP, Linux and open source are where I'm most at home. Arch/CachyOS is my daily driver, I run a bit of self-hosted infrastructure, and I occasionally contribute upstream (for example to Infomaniak's kDrive client).
 
-### Currently focused on
+My background runs Fachinformatiker, then IT administration, then SAP consulting, and I'm finishing a dual-study B.Sc. in Wirtschaftsinformatik at Hochschule Mainz in 2026.
 
-- 📜 **SAP C_TADM_23** certification (System Administration) — near-term milestone on the road to S/4HANA architecture
-- 🤖 Exploring agentic AI tooling in SAP / SME contexts
-- ⚙️ Bringing software-engineering discipline (CI, testing, IaC thinking) into the SAP world
+## Currently focused on
 
----
+Right now my near-term milestone is the SAP C_TADM_23 certification (System Administration), which sits squarely on the road toward S/4HANA architecture. Alongside that I'm exploring agentic AI tooling in SAP and SME contexts, and generally trying to bring software-engineering discipline (CI, testing, infrastructure-as-code thinking) into the SAP world, where it's still pretty rare.
 
-### Featured projects
+## A couple of projects
 
-**[LifeBacklog](https://github.com/TCGTVV/LifeBacklog)** — Personal development run like a software project: epics, tickets, a WIP limit of 1, and Definition-of-Done criteria, managed via the GitHub CLI and Issues. An experiment in applying an Informatik mindset to habits.
+[LifeBacklog](https://github.com/TCGTVV/LifeBacklog) is personal development run like a software project: epics, tickets, a WIP limit of 1, and Definition-of-Done criteria, all managed through the GitHub CLI and Issues. Basically an experiment in pointing an Informatik mindset at my own habits.
 
-**[arsnova.eu](https://github.com/TCGTVV/arsnova.eu)** *(fork)* — Hands-on work in a modern **Angular 21 + tRPC + Prisma** TypeScript monorepo, including LSP-based tooling (Serena MCP) for symbol-level refactoring.
+[arsnova.eu](https://github.com/TCGTVV/arsnova.eu) (a fork) is where I get hands-on with a modern Angular 21, tRPC, and Prisma TypeScript monorepo, including LSP-based tooling (Serena MCP) for symbol-level refactoring.
 
----
+## Toolbox
 
-### Toolbox
+SAP and data: SAP Business One, SAP HANA, SQL Server, coresuite, B1 upgrades and migrations.
 
-**SAP & data:** SAP Business One · SAP HANA · SQL Server · coresuite · B1 upgrades & migrations
-**Toward S/4HANA:** system administration · platform & migration concepts
-**Dev & infra:** TypeScript · Angular · Node.js · Git / GitHub CLI · Docker · Linux server admin
-**Workflow:** Arch / CachyOS · KDE Plasma · open-source & self-hosted tooling
+Toward S/4HANA: system administration, platform and migration concepts.
 
-### Languages
+Dev and infra: TypeScript, Angular, Node.js, Git, GitHub CLI, Docker, Linux server administration.
 
-🇩🇪 German (native) · 🇬🇧 English (C1) · 🇰🇷 Korean (working knowledge)
+Workflow: Arch/CachyOS with KDE Plasma, open-source and self-hosted tooling wherever it makes sense.
 
----
+## Languages
 
-> *Bridging the gap between SAP business systems and modern, maintainable engineering.*
+German (native), English (C1), Korean (working knowledge).
