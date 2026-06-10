@@ -2,7 +2,7 @@
 
 SAP Business One Consultant on the way to an SAP S/4HANA Platform / Technical Architect role, somewhere at the intersection of deep SAP knowledge, modern software engineering, and Linux infrastructure.
 
-I tend to treat consulting like engineering work: reproducible setups, things kept under version control, clean migrations, and systems that the next person can actually maintain.
+What really drives me is curiosity. I genuinely love this field and I'm happiest when I'm learning something new about how systems work, then actually getting my hands dirty with it rather than just reading about it. I treat consulting like engineering work: reproducible setups, things kept under version control, clean migrations, and systems that the next person can actually maintain.
 
 ## What I do
 
@@ -12,9 +12,13 @@ Outside of SAP, Linux and open source are where I'm most at home. Arch/CachyOS i
 
 My background runs Fachinformatiker, then IT administration, then SAP consulting, and I'm finishing a dual-study B.Sc. in Wirtschaftsinformatik at Hochschule Mainz in 2026.
 
-## Currently focused on
+## What I'm into right now
 
-Right now my near-term milestone is the SAP C_TADM_23 certification (System Administration), which sits squarely on the road toward S/4HANA architecture. Alongside that I'm exploring agentic AI tooling in SAP and SME contexts, and generally trying to bring software-engineering discipline (CI, testing, infrastructure-as-code thinking) into the SAP world, where it's still pretty rare.
+I'm digging deep into software and programming architecture at the moment, and learning a lot in the process. Design decisions, trade-offs, what makes a system hold up over time. It's the thread that connects my SAP work, my side projects, and where I want to take my career.
+
+I also try to stay right at the front of what's happening in AI. I test pretty much every new tool that comes out, from agentic coding assistants to MCP-based setups, partly out of pure curiosity and partly because I want to understand where this is genuinely useful in real SAP and SME work, not just in demos.
+
+On the SAP side, my near-term milestone is the C_TADM_23 certification (System Administration), which sits squarely on the road toward S/4HANA architecture.
 
 ## A couple of projects
 
@@ -26,12 +30,14 @@ Right now my near-term milestone is the SAP C_TADM_23 certification (System Admi
 
 SAP and data: SAP Business One, SAP HANA, SQL Server, coresuite, B1 upgrades and migrations.
 
-Toward S/4HANA: system administration, platform and migration concepts.
+Toward S/4HANA: system administration, platform and migration concepts, software architecture.
 
 Dev and infra: TypeScript, Angular, Node.js, Git, GitHub CLI, Docker, Linux server administration.
+
+AI tooling: agentic coding assistants, MCP servers, and whatever just shipped this week.
 
 Workflow: Arch/CachyOS with KDE Plasma, open-source and self-hosted tooling wherever it makes sense.
 
 ## Languages
 
-German (native), English (C1), Korean (working knowledge).
+German (native), English (C1), Spanish (Learning), Korean (Learning).
