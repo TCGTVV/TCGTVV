@@ -43,3 +43,7 @@ Workflow: Arch/CachyOS with KDE Plasma, open-source and self-hosted tooling wher
 ## Languages
 
 German (native), English (C1), Spanish (learning), Korean (learning).
+
+## Get in touch
+
+Happy to connect on [LinkedIn](https://www.linkedin.com/in/leopold-g-a48391242/), especially if you're working at the intersection of SAP and modern software engineering.
