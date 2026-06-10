@@ -10,7 +10,7 @@ I work as an SAP B1 consultant at rocon, handling implementations, version upgra
 
 Outside of SAP, Linux and open source are where I'm most at home. Arch/CachyOS is my daily driver, I run a bit of self-hosted infrastructure, and I occasionally contribute upstream (for example to Infomaniak's kDrive client).
 
-My background runs Fachinformatiker, then IT administration, then SAP consulting, and I'm finishing a dual-study B.Sc. in Wirtschaftsinformatik at Hochschule Mainz in 2026.
+My background runs Fachinformatiker, then IT administration, then SAP consulting, and I'm finishing a dual-study B.Sc. in Wirtschaftsinformatik at IU International University of Applied Sciences in 2027.
 
 ## What I'm into right now
 
@@ -20,7 +20,9 @@ I also try to stay right at the front of what's happening in AI. I test pretty m
 
 On the SAP side, my near-term milestone is the C_TADM_23 certification (System Administration), which sits squarely on the road toward S/4HANA architecture.
 
-## A couple of projects
+## What I'm building
+
+[SubTracked](https://github.com/TCGTVV/SubTracked) is my current main project and the one I put the most into. It's a local-first desktop app that tracks recurring payments and forecasts your account balances into the future, so it can warn you before an upcoming charge pushes a balance below its safety buffer or into the red. Built with Tauri 2 (a Rust core with the system WebView) and React 19 on strict TypeScript, it keeps everything locally in SQLite and runs an independent reminder loop in Rust so notifications still fire when the window is hidden. No account, no cloud, by design, because subscription and account data is private financial data. It's where the architecture thinking I keep going on about actually gets tested: a clean split between the Rust process and the frontend, tests on both sides, and CI with pre-commit quality gates.
 
 [LifeBacklog](https://github.com/TCGTVV/LifeBacklog) is personal development run like a software project: epics, tickets, a WIP limit of 1, and Definition-of-Done criteria, all managed through the GitHub CLI and Issues. Basically an experiment in pointing an Informatik mindset at my own habits.
 
@@ -32,7 +34,7 @@ SAP and data: SAP Business One, SAP HANA, SQL Server, coresuite, B1 upgrades and
 
 Toward S/4HANA: system administration, platform and migration concepts, software architecture.
 
-Dev and infra: TypeScript, Angular, Node.js, Git, GitHub CLI, Docker, Linux server administration.
+Dev and infra: Rust, Tauri, TypeScript, React, Angular, Node.js, SQLite, Docker, Git and GitHub Actions, Linux server administration.
 
 AI tooling: agentic coding assistants, MCP servers, and whatever just shipped this week.
 
@@ -40,4 +42,4 @@ Workflow: Arch/CachyOS with KDE Plasma, open-source and self-hosted tooling wher
 
 ## Languages
 
-German (native), English (C1), Spanish (Learning), Korean (Learning).
+German (native), English (C1), Spanish (learning), Korean (learning).
